@@ -26,7 +26,7 @@ sudo apt-get install libsuitesparse-dev
 ```
 cd VINS-Fusion-Stable-Release/ceres
 tar zxf ceres-solver-1.14.0.tar.gz
-cd ceres
+cd ceres-solver-1.14.0
 mkdir ceres-bin
 cd ceres-bin
 cmake ../ceres-solver-1.14.0
