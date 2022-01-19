@@ -6,7 +6,7 @@ This repository is a version of VINS-Fusion. Stable version based multi-sensor s
 - [OpenCV(ver 4)](https://opencv.org)
 - [OpenCV bridge](https://github.com/ros-perception/vision_opencv)
 # Ceres Solver
-This version test it on ceres-solver-1.14 ,you can find some difficulties and some erros when you want to use the last verssion of ceres :ceres-solver-2.0.
+This version test it on ceres-solver-1.14 ,you can find some difficulties and some erros when you want to use the last version of ceres :ceres-solver-2.0.
 
 #### Start by installing all the dependencies.
 ```
